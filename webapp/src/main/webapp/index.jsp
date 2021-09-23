@@ -10,3 +10,4 @@
 <h1> Good job, continue with the good work </h1>
 <h1> I am understanding the full devops pipeline now </h1>
 <h1> I did this again to better understrand the CI/CD pipeline </h1>
+<h1> Another try of the automation </h1>
