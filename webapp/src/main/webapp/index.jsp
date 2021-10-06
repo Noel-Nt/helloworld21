@@ -13,3 +13,4 @@
 <h1> Another try of the automation </h1>
 <h1> I did this again from git bash to better understand the CI/CD pipeline </h1>
 <h1> This line is for the docker test I do Understand better </h1>
+<h1> I have a better understanding of Jenkins now </h1>
